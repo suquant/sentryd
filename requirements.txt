@@ -8,3 +8,6 @@ yowsup2==2.5.0
 sentry-twilio==0.1.0
 sentry-github==0.1.2
 sentry-auth-google==0.1.0
+sentry-statsd==0.0.2
+sentry-plivo==0.1
+sentry-redispubsub==0.0.1
