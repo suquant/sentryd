@@ -1,11 +1,4 @@
-#sentry-slack==0.5.0
-sentry-zabbix==0.0.14
-#sentry-gitlab==0.2.0
-#sentry-jira==0.11.1
+sentry-zabbix==0.0.15
 sentry-sso-google==1.2
-sentry-twilio==0.1.0
-#sentry-github==0.1.2
 sentry-auth-google==0.1.0
 sentry-statsd==0.0.2
-sentry-redispubsub==0.0.1
-sentry-plugins==8.10.0
