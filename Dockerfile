@@ -1,2 +1,2 @@
-FROM sentry:8.14.1-onbuild
+FROM sentry:8.17.0-onbuild
 MAINTAINER George Kutsurua <g.kutsurua@gmail.com>
